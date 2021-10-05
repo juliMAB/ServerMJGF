@@ -1,0 +1,29 @@
+type = hud
+
+customization-meta {
+  backgroundimage = resourcepacks/Graphics/loading.png
+  renderorder = foreground
+}
+
+customization {
+  visible = false
+  x = 0
+  action = editlogo
+}
+
+customization {
+  action = editprogressbar
+  barcolor = #7cbfd7
+}
+
+customization {
+  path = resourcepacks/Graphics/studio.png
+  orientation = top-right
+  x = -14
+  width = 177
+  action = addtexture
+  actionid = 84c359b1-4074-4efb-9669-cad8fe247bb11631584832028
+  y = -1
+  height = 100
+}
+

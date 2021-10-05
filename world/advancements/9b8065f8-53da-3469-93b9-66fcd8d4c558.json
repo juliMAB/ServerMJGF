@@ -1,0 +1,2388 @@
+{
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2021-10-05 13:03:58 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2021-10-05 11:25:22 -0300"
+    },
+    "done": true
+  },
+  "flesh2leather:recipes/combined_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "woods_and_mires:recipes/pine_fence": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2021-10-05 11:37:36 -0300"
+    },
+    "done": true
+  },
+  "repurposed_structures:igloos": {
+    "criteria": {
+      "in_igloo_grassy": "2021-10-05 11:44:46 -0300"
+    },
+    "done": false
+  },
+  "cozy_camping:recipes/tents/white_tent": {
+    "criteria": {
+      "has_white_wool": "2021-10-05 11:25:22 -0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_blue": {
+    "criteria": {
+      "has_light_blue_wool": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:32:00 -0300"
+    },
+    "done": true
+  },
+  "outvoted:recipes/building_blocks/palm_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/transportation/elder_boat": {
+    "criteria": {
+      "in_water": "2021-10-05 11:27:40 -0300"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_compass": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "cozy_camping:recipes/tents/pink_tent": {
+    "criteria": {
+      "has_stick": "2021-10-05 11:32:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:40:37 -0300"
+    },
+    "done": true
+  },
+  "charm:inventory_tidying/tidy_inventory": {
+    "criteria": {
+      "tidied_inventory": "2021-10-05 11:54:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2021-10-05 12:00:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:40:37 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2021-10-05 11:25:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:32:00 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2021-10-05 12:01:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2021-10-05 11:32:33 -0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_black_wool": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2021-10-05 11:37:37 -0300"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/voodoo_poppet": {
+    "criteria": {
+      "has_item": "2021-10-05 11:55:10 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:40:37 -0300"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/dragons_blood_chest": {
+    "criteria": {
+      "has_lots_of_items": "2021-10-05 11:37:37 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2021-10-05 11:32:33 -0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_red_from_white": {
+    "criteria": {
+      "has_hammock": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2021-10-05 11:40:51 -0300"
+    },
+    "done": true
+  },
+  "earthtojavamobs:recipes/building_blocks/rainbow_wool": {
+    "criteria": {
+      "has_white_wool": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:32:00 -0300"
+    },
+    "done": true
+  },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2021-10-05 12:03:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-10-05 12:54:30 -0300"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/fatigue_poppet": {
+    "criteria": {
+      "has_item": "2021-10-05 11:55:10 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2021-10-05 11:55:32 -0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_purple": {
+    "criteria": {
+      "has_purple_wool": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2021-10-05 11:37:36 -0300"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/juniper_chest": {
+    "criteria": {
+      "has_lots_of_items": "2021-10-05 11:37:37 -0300"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_prairie_house": {
+    "criteria": {
+      "location0": "2021-10-05 11:35:13 -0300"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/cypress_chest": {
+    "criteria": {
+      "has_lots_of_items": "2021-10-05 11:37:37 -0300"
+    },
+    "done": true
+  },
+  "outvoted:recipes/redstone/palm_door": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2021-10-05 11:54:13 -0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_lime": {
+    "criteria": {
+      "has_lime_wool": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_pink": {
+    "criteria": {
+      "has_pink_wool": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "woods_and_mires:recipes/pine_button": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-10-05 12:54:30 -0300"
+    },
+    "done": true
+  },
+  "outvoted:recipes/combat/wildfire_shield": {
+    "criteria": {
+      "has_wildfire_part": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_blue_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/white_coffin": {
+    "criteria": {
+      "has_item": "2021-10-05 12:59:43 -0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_magenta": {
+    "criteria": {
+      "has_magenta_wool": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "earthtojavamobs:recipes/decorations/rainbow_bed": {
+    "criteria": {
+      "has_rainbow_wool": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2021-10-05 11:58:58 -0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red": {
+    "criteria": {
+      "has_red_wool": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:32:00 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2021-10-05 12:59:43 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2021-10-05 11:25:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2021-10-05 11:32:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2021-10-05 12:08:21 -0300"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/transportation/dragons_blood_boat": {
+    "criteria": {
+      "in_water": "2021-10-05 11:27:40 -0300"
+    },
+    "done": true
+  },
+  "flesh2leather:recipes/smoking": {
+    "criteria": {
+      "has_combined_flesh": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "morevillagers:root": {
+    "criteria": {
+      "always": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2021-10-05 12:59:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2021-10-05 13:06:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2021-10-05 11:39:14 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2021-10-05 13:01:25 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2021-10-05 11:37:36 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2021-10-05 11:54:13 -0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_orange": {
+    "criteria": {
+      "has_orange_wool": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grotesque_stew": {
+    "criteria": {
+      "has_item": "2021-10-05 11:56:14 -0300"
+    },
+    "done": true
+  },
+  "cozy_camping:recipes/stumps/acacia_stump": {
+    "criteria": {
+      "has_acacia_log": "2021-10-05 11:25:03 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2021-10-05 11:27:40 -0300"
+    },
+    "done": true
+  },
+  "outvoted:recipes/misc/prismarine_rod": {
+    "criteria": {
+      "has_prismarine": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2021-10-05 11:25:21 -0300"
+    },
+    "done": true
+  },
+  "woods_and_mires:recipes/pine_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_red": {
+    "criteria": {
+      "has_red_wool": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2021-10-05 12:59:43 -0300"
+    },
+    "done": true
+  },
+  "woods_and_mires:recipes/pine_snag_wood": {
+    "criteria": {
+      "has_log": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2021-10-05 13:03:58 -0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray_from_white": {
+    "criteria": {
+      "has_hammock": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2021-10-05 13:06:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2021-10-05 12:38:49 -0300",
+      "minecraft:silverfish": "2021-10-05 12:07:51 -0300",
+      "minecraft:zombie": "2021-10-05 11:28:52 -0300",
+      "minecraft:zombie_villager": "2021-10-05 11:36:20 -0300"
+    },
+    "done": false
+  },
+  "cozy_camping:recipes/tents/orange_tent": {
+    "criteria": {
+      "has_stick": "2021-10-05 11:32:33 -0300"
+    },
+    "done": true
+  },
+  "woods_and_mires:recipes/magenta_dye_from_fireweed": {
+    "criteria": {
+      "has_magenta_flower": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "forgottenrecipes:recipes/sculk_sensor": {
+    "criteria": {
+      "has_warped_wart_block": "2021-10-05 11:22:31 -0300",
+      "has_twisting_vines": "2021-10-05 11:22:31 -0300",
+      "has_crying_obsidian": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "charm:core/world": {
+    "criteria": {
+      "player_joined": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_village": {
+    "criteria": {
+      "location0": "2021-10-05 12:07:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2021-10-05 12:07:43 -0300"
+    },
+    "done": true
+  },
+  "woods_and_mires:recipes/oak_door_from_pine": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2021-10-05 12:00:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2021-10-05 12:59:43 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2021-10-05 12:01:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_helmet": "2021-10-05 11:32:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2021-10-05 11:25:22 -0300"
+    },
+    "done": true
+  },
+  "outvoted:recipes/building_blocks/baobab_wood": {
+    "criteria": {
+      "has_log": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "morevillagers:all_professions_traded": {
+    "criteria": {
+      "netherian": "2021-10-05 12:03:40 -0300"
+    },
+    "done": false
+  },
+  "bewitchment:recipes/decorations/besmirched_wool": {
+    "criteria": {
+      "has_item": "2021-10-05 11:25:22 -0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_blue": {
+    "criteria": {
+      "has_blue_wool": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "cozy_camping:recipes/tents/purple_tent": {
+    "criteria": {
+      "has_stick": "2021-10-05 11:32:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2021-10-05 11:50:29 -0300"
+    },
+    "done": true
+  },
+  "conjuring:root": {
+    "criteria": {
+      "conjuration_essence": "2021-10-05 11:58:38 -0300"
+    },
+    "done": true
+  },
+  "cozy_camping:recipes/tents/yellow_tent": {
+    "criteria": {
+      "has_stick": "2021-10-05 11:32:33 -0300"
+    },
+    "done": true
+  },
+  "outvoted:recipes/building_blocks/baobab_stairs": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_white_wool": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "cozy_camping:recipes/tents/green_tent": {
+    "criteria": {
+      "has_stick": "2021-10-05 11:32:33 -0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_green_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "cozy_camping:recipes/tents/black_tent": {
+    "criteria": {
+      "has_stick": "2021-10-05 11:32:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2021-10-05 11:25:22 -0300"
+    },
+    "done": true
+  },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_oak": "2021-10-05 11:54:41 -0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:32:00 -0300"
+    },
+    "done": true
+  },
+  "outvoted:recipes/building_blocks/baobab_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "artifality:artifact_all": {
+    "criteria": {
+      "floral_staff": "2021-10-05 11:45:44 -0300"
+    },
+    "done": false
+  },
+  "bewitchment:recipes/transportation/juniper_boat": {
+    "criteria": {
+      "in_water": "2021-10-05 11:27:40 -0300"
+    },
+    "done": true
+  },
+  "cozy_camping:recipes/stumps/spruce_stump": {
+    "criteria": {
+      "has_spruce_log": "2021-10-05 12:43:48 -0300"
+    },
+    "done": true
+  },
+  "outvoted:recipes/building_blocks/baobab_button": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "cozy_camping:recipes/tents/lime_tent": {
+    "criteria": {
+      "has_stick": "2021-10-05 11:32:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2021-10-05 11:25:03 -0300"
+    },
+    "done": true
+  },
+  "cozy_camping:recipes/tents/red_tent": {
+    "criteria": {
+      "has_stick": "2021-10-05 11:32:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2021-10-05 12:43:48 -0300"
+    },
+    "done": true
+  },
+  "outvoted:recipes/building_blocks/palm_wood": {
+    "criteria": {
+      "has_log": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2021-10-05 11:25:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2021-10-05 11:32:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2021-10-05 11:58:03 -0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_purple_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2021-10-05 11:58:58 -0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_yellow_from_white": {
+    "criteria": {
+      "has_hammock": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_orange_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "ratsmischief:recipes/tools/leather_rat_pouch": {
+    "criteria": {
+      "has_material": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "outvoted:recipes/building_blocks/baobab_fence": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "morevillagers:map_endcity": {
+    "criteria": {
+      "hasmap": "2021-10-05 11:22:31 -0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2021-10-05 13:03:58 -0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_brown_from_white": {
+    "criteria": {
+      "has_the_recipe": "2021-10-05 11:22:31 -0300",
+      "has_sleeping_bag": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "outvoted:recipes/building_blocks/palm_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray_from_white": {
+    "criteria": {
+      "has_hammock": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_brown": {
+    "criteria": {
+      "has_brown_wool": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray": {
+    "criteria": {
+      "has_gray_wool": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2021-10-05 11:32:33 -0300"
+    },
+    "done": true
+  },
+  "earthtojavamobs:recipes/misc/yellow_dye_from_buttercup": {
+    "criteria": {
+      "has_yellow_flower": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "charm:core/mobs": {
+    "criteria": {
+      "player_joined": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2021-10-05 11:25:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:40:37 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2021-10-05 12:59:43 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_helmet": "2021-10-05 11:32:54 -0300"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2021-10-05 11:28:52 -0300"
+    },
+    "done": true
+  },
+  "outvoted:recipes/decorations/baobab_sign": {
+    "criteria": {
+      "has_baobab_planks": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_magenta_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_magenta_from_white": {
+    "criteria": {
+      "has_hammock": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "earthtojavamobs:recipes/melon_lantern": {
+    "criteria": {
+      "has_carved_melon": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2021-10-05 11:37:36 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2021-10-05 11:54:42 -0300",
+      "minecraft:deep_lukewarm_ocean": "2021-10-05 11:22:31 -0300",
+      "minecraft:beach": "2021-10-05 11:34:18 -0300",
+      "minecraft:river": "2021-10-05 11:42:43 -0300",
+      "minecraft:lukewarm_ocean": "2021-10-05 11:33:55 -0300"
+    },
+    "done": false
+  },
+  "outvoted:recipes/building_blocks/palm_stairs": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2021-10-05 12:59:43 -0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "outvoted:recipes/building_blocks/palm_fence": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/mossy_cobblestone_witch_altar": {
+    "criteria": {
+      "has_item": "2021-10-05 12:54:30 -0300"
+    },
+    "done": true
+  },
+  "medievalweapons:medieval_stone_recipes": {
+    "criteria": {
+      "medieval_stone_recipes": "2021-10-05 11:37:36 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2021-10-05 11:45:28 -0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan": {
+    "criteria": {
+      "has_cyan_wool": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "outvoted:recipes/redstone/baobab_door": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2021-10-05 11:37:36 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:32:00 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2021-10-05 11:37:36 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/trident": {
+    "criteria": {
+      "has_tooth": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2021-10-05 12:08:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2021-10-05 11:37:36 -0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_purple_from_white": {
+    "criteria": {
+      "has_hammock": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "woods_and_mires:recipes/oak_boat_from_pine": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_ring_teleport": {
+    "criteria": {
+      "gobber2_ring_teleport": "2021-10-05 11:41:32 -0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_pink_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2021-10-05 11:37:36 -0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2021-10-05 13:06:49 -0300"
+    },
+    "done": true
+  },
+  "charm:core/root": {
+    "criteria": {
+      "player_joined": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "traverse:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2021-10-05 11:27:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2021-10-05 11:54:13 -0300"
+    },
+    "done": true
+  },
+  "forgottenrecipes:recipes/leather": {
+    "criteria": {
+      "has_rotten_flesh": "2021-10-05 11:22:31 -0300",
+      "has_campfire": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:32:00 -0300"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "artifality:nature_staffs": {
+    "criteria": {
+      "floral_staff": "2021-10-05 11:45:44 -0300"
+    },
+    "done": false
+  },
+  "outvoted:recipes/building_blocks/palm_button": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_pink": {
+    "criteria": {
+      "has_pink_wool": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "cozy_camping:recipes/tents/brown_tent": {
+    "criteria": {
+      "has_stick": "2021-10-05 11:32:33 -0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan_from_white": {
+    "criteria": {
+      "has_the_recipe": "2021-10-05 11:22:31 -0300",
+      "has_sleeping_bag": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/hedgewitch_wool": {
+    "criteria": {
+      "has_item": "2021-10-05 11:25:22 -0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown": {
+    "criteria": {
+      "has_brown_wool": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2021-10-05 11:25:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2021-10-05 12:59:43 -0300"
+    },
+    "done": true
+  },
+  "voidtotem:recipes/combat/totem_of_void_undying": {
+    "criteria": {
+      "has_ender_eye": "2021-10-05 11:22:31 -0300",
+      "has_totem": "2021-10-05 11:22:31 -0300",
+      "has_chorus_fruit": "2021-10-05 11:22:31 -0300",
+      "has_emerald": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2021-10-05 11:25:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:32:00 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2021-10-05 11:37:36 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2021-10-05 11:25:22 -0300"
+    },
+    "done": true
+  },
+  "outvoted:recipes/building_blocks/baobab_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "seasons:recipes/season_detector": {
+    "criteria": {
+      "has_detector": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2021-10-05 11:25:22 -0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_cyan_from_white": {
+    "criteria": {
+      "has_hammock": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_black_wool": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2021-10-05 11:37:36 -0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_lime": {
+    "criteria": {
+      "has_lime_wool": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "artifality:root": {
+    "criteria": {
+      "start": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/judgment_poppet": {
+    "criteria": {
+      "has_item": "2021-10-05 11:55:10 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2021-10-05 11:58:58 -0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_lime_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2021-10-05 11:55:10 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2021-10-05 11:25:22 -0300"
+    },
+    "done": true
+  },
+  "gofish:fishing/root": {
+    "criteria": {
+      "fishing_rod": "2021-10-05 12:54:58 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2021-10-05 12:00:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2021-10-05 11:32:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2021-10-05 13:03:58 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2021-10-05 11:55:39 -0300"
+    },
+    "done": true
+  },
+  "cozy_camping:recipes/tents/light_gray_tent": {
+    "criteria": {
+      "has_stick": "2021-10-05 11:32:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2021-10-05 12:59:43 -0300"
+    },
+    "done": true
+  },
+  "woods_and_mires:recipes/pine_wood": {
+    "criteria": {
+      "has_log": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_yellow": {
+    "criteria": {
+      "has_yellow_wool": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2021-10-05 13:06:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2021-10-05 11:25:22 -0300"
+    },
+    "done": true
+  },
+  "outvoted:recipes/decorations/palm_sign": {
+    "criteria": {
+      "has_palm_planks": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_pink_from_white": {
+    "criteria": {
+      "has_hammock": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2021-10-05 11:27:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2021-10-05 13:06:49 -0300"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/curse_poppet": {
+    "criteria": {
+      "has_item": "2021-10-05 11:55:10 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2021-10-05 12:00:20 -0300"
+    },
+    "done": true
+  },
+  "woods_and_mires:recipes/pine_stairs": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "cozy_camping:recipes/stick_marshmallows/marshmallow_on_a_stick": {
+    "criteria": {
+      "has_stick": "2021-10-05 11:32:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_netherbrick": "2021-10-05 12:03:40 -0300"
+    },
+    "done": true
+  },
+  "outvoted:recipes/misc/wildfire_shield_part": {
+    "criteria": {
+      "has_wildfire_piece": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2021-10-05 11:56:14 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2021-10-05 11:25:22 -0300"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/protection_poppet": {
+    "criteria": {
+      "has_item": "2021-10-05 11:55:10 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_mutton": "2021-10-05 11:35:35 -0300",
+      "potato": "2021-10-05 12:39:16 -0300",
+      "bread": "2021-10-05 11:56:43 -0300",
+      "rotten_flesh": "2021-10-05 11:29:49 -0300",
+      "suspicious_stew": "2021-10-05 11:56:14 -0300",
+      "melon_slice": "2021-10-05 12:07:13 -0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2021-10-05 11:32:33 -0300"
+    },
+    "done": true
+  },
+  "ratsmischief:recipes/tools/twisted_rat_pouch": {
+    "criteria": {
+      "has_material": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2021-10-05 11:37:36 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2021-10-05 12:00:20 -0300"
+    },
+    "done": true
+  },
+  "cozy_camping:recipes/tents/magenta_tent": {
+    "criteria": {
+      "has_stick": "2021-10-05 11:32:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2021-10-05 12:59:43 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2021-10-05 12:08:21 -0300"
+    },
+    "done": true
+  },
+  "forgottenrecipes:recipes/powder_snow": {
+    "criteria": {
+      "has_bucket": "2021-10-05 11:22:31 -0300",
+      "has_snow_block": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2021-10-05 12:07:43 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2021-10-05 11:25:22 -0300"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/elder_chest": {
+    "criteria": {
+      "has_lots_of_items": "2021-10-05 11:37:37 -0300"
+    },
+    "done": true
+  },
+  "outvoted:recipes/building_blocks/baobab_slab": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-10-05 12:54:30 -0300"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/voodoo_protection_poppet": {
+    "criteria": {
+      "has_item": "2021-10-05 11:55:10 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2021-10-05 11:55:39 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2021-10-05 13:03:58 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-10-05 12:54:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:32:00 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2021-10-05 12:59:43 -0300"
+    },
+    "done": true
+  },
+  "outvoted:one_mil": {
+    "criteria": {
+      "join": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_blue": {
+    "criteria": {
+      "has_blue_wool": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2021-10-05 13:06:49 -0300"
+    },
+    "done": true
+  },
+  "woods_and_mires:recipes/pine_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2021-10-05 11:37:36 -0300"
+    },
+    "done": true
+  },
+  "woods_and_mires:recipes/oak_trapdoor_from_pine": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2021-10-05 11:55:10 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2021-10-05 11:37:36 -0300"
+    },
+    "done": true
+  },
+  "cozy_camping:recipes/stick_marshmallows/roasted_marshmallow_on_a_stick": {
+    "criteria": {
+      "has_stick": "2021-10-05 11:32:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2021-10-05 11:25:03 -0300"
+    },
+    "done": true
+  },
+  "charm:core/smithing": {
+    "criteria": {
+      "player_joined": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2021-10-05 11:25:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2021-10-05 11:32:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2021-10-05 12:08:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2021-10-05 11:29:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2021-10-05 12:00:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2021-10-05 12:07:43 -0300"
+    },
+    "done": true
+  },
+  "earthtojavamobs:recipes/decorations/rainbow_carpet": {
+    "criteria": {
+      "has_rainbow_wool": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2021-10-05 11:27:40 -0300"
+    },
+    "done": true
+  },
+  "mostructures:root": {
+    "criteria": {
+      "very_simple_trigger": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:32:00 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2021-10-05 12:59:43 -0300"
+    },
+    "done": true
+  },
+  "charm:core/tools": {
+    "criteria": {
+      "player_joined": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_black_from_white": {
+    "criteria": {
+      "has_hammock": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "outvoted:recipes/building_blocks/baobab_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2021-10-05 12:59:43 -0300"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/alchemist_wool": {
+    "criteria": {
+      "has_item": "2021-10-05 11:25:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2021-10-05 11:37:36 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2021-10-05 12:07:43 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:40:37 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2021-10-05 11:50:29 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2021-10-05 13:06:49 -0300"
+    },
+    "done": true
+  },
+  "architects_palette:main/root": {
+    "criteria": {
+      "craftingtable": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2021-10-05 13:06:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2021-10-05 12:59:43 -0300"
+    },
+    "done": true
+  },
+  "artifality:artifact_first": {
+    "criteria": {
+      "name": "2021-10-05 11:45:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2021-10-05 12:03:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2021-10-05 11:50:29 -0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_lime_from_white": {
+    "criteria": {
+      "has_hammock": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2021-10-05 11:25:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:40:37 -0300"
+    },
+    "done": true
+  },
+  "charm:core/decoration": {
+    "criteria": {
+      "player_joined": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_orange_from_white": {
+    "criteria": {
+      "has_hammock": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "environmentz:heated_things_recipes": {
+    "criteria": {
+      "got_heating_things": "2021-10-05 11:37:36 -0300"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/transportation/cypress_boat": {
+    "criteria": {
+      "in_water": "2021-10-05 11:27:40 -0300"
+    },
+    "done": true
+  },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "brewingstand": "2021-10-05 11:48:02 -0300"
+    },
+    "done": false
+  },
+  "morevillagers:map_bastion": {
+    "criteria": {
+      "hasmap": "2021-10-05 11:22:31 -0300"
+    },
+    "done": false
+  },
+  "comforts:sleeping_bag_light_gray_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "woods_and_mires:recipes/stripped_pine_wood": {
+    "criteria": {
+      "has_log": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "cozy_camping:recipes/tents/cyan_tent": {
+    "criteria": {
+      "has_stick": "2021-10-05 11:32:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2021-10-05 13:06:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2021-10-05 11:40:51 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2021-10-05 13:06:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2021-10-05 11:27:40 -0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_gray_wool": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2021-10-05 12:59:43 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2021-10-05 12:00:20 -0300"
+    },
+    "done": true
+  },
+  "ratsmischief:ratsrats/root": {
+    "criteria": {
+      "consumed_item": "2021-10-05 11:29:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2021-10-05 11:32:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2021-10-05 11:25:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:40:37 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2021-10-05 12:08:21 -0300"
+    },
+    "done": true
+  },
+  "cozy_camping:recipes/tents/light_blue_tent": {
+    "criteria": {
+      "has_stick": "2021-10-05 11:32:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2021-10-05 13:03:58 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2021-10-05 11:25:22 -0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2021-10-05 13:06:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2021-10-05 12:00:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2021-10-05 11:25:22 -0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_blue_from_white": {
+    "criteria": {
+      "has_hammock": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2021-10-05 12:00:20 -0300"
+    },
+    "done": true
+  },
+  "earthtojavamobs:recipes/misc/pink_dye_from_pink_daisy": {
+    "criteria": {
+      "has_pink_flower": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "dehydration:diamond_recipes": {
+    "criteria": {
+      "got_the_diamond_for_dehydration": "2021-10-05 13:06:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2021-10-05 11:25:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:32:00 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2021-10-05 11:37:37 -0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_cyan": {
+    "criteria": {
+      "has_cyan_wool": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "medievalweapons:medieval_diamond_recipes": {
+    "criteria": {
+      "medieval_diamond_recipes": "2021-10-05 13:06:49 -0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_purple": {
+    "criteria": {
+      "has_purple_wool": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2021-10-05 11:53:32 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2021-10-05 11:37:36 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-10-05 12:54:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:40:37 -0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow": {
+    "criteria": {
+      "has_yellow_wool": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:32:00 -0300"
+    },
+    "done": true
+  },
+  "charm:core/automation": {
+    "criteria": {
+      "player_joined": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_blue_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "seasons:recipes/season_calendar": {
+    "criteria": {
+      "has_clock": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_green": {
+    "criteria": {
+      "has_green_wool": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/mending_poppet": {
+    "criteria": {
+      "has_item": "2021-10-05 11:55:10 -0300"
+    },
+    "done": true
+  },
+  "cozy_camping:recipes/stumps/oak_stump": {
+    "criteria": {
+      "has_oak_log": "2021-10-05 11:58:03 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2021-10-05 11:58:03 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2021-10-05 11:32:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2021-10-05 12:07:43 -0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_blue": {
+    "criteria": {
+      "has_light_blue_wool": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_typhon": {
+    "criteria": {
+      "location0": "2021-10-05 12:47:12 -0300"
+    },
+    "done": true
+  },
+  "woods_and_mires:recipes/yellow_dye_from_tansy": {
+    "criteria": {
+      "has_yellow_flower": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/death_protection_poppet": {
+    "criteria": {
+      "has_item": "2021-10-05 11:55:10 -0300"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/vampiric_poppet": {
+    "criteria": {
+      "has_item": "2021-10-05 11:55:10 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2021-10-05 11:25:03 -0300"
+    },
+    "done": true
+  },
+  "cozy_camping:recipes/tents/gray_tent": {
+    "criteria": {
+      "has_stick": "2021-10-05 11:32:33 -0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2021-10-05 12:07:43 -0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown_from_white": {
+    "criteria": {
+      "has_hammock": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "urns:recipes/decorations/clay_urn": {
+    "criteria": {
+      "has_brick": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "ratsmischief:recipes/tools/purpur_rat_pouch": {
+    "criteria": {
+      "has_material": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2021-10-05 12:08:21 -0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_blue_from_white": {
+    "criteria": {
+      "has_hammock": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "woods_and_mires:recipes/pine_slab": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "outvoted:recipes/building_blocks/palm_slab": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "medievalweapons:medieval_wooden_recipes": {
+    "criteria": {
+      "medieval_wooden_recipes": "2021-10-05 11:32:33 -0300"
+    },
+    "done": true
+  },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "in_ruins_land_warm": "2021-10-05 12:54:10 -0300"
+    },
+    "done": false
+  },
+  "cozy_camping:recipes//sleeping_bag": {
+    "criteria": {
+      "has_wool": "2021-10-05 11:25:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2021-10-05 11:27:40 -0300"
+    },
+    "done": true
+  },
+  "endrem:main/cold_eye": {
+    "criteria": {
+      "cold_eye": "2021-10-05 11:45:40 -0300"
+    },
+    "done": true
+  },
+  "things:root": {
+    "criteria": {
+      "tick": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2021-10-05 11:27:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2021-10-05 11:25:22 -0300"
+    },
+    "done": true
+  },
+  "woods_and_mires:recipes/oak_sign_from_pine": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2021-10-05 12:59:43 -0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_green_from_white": {
+    "criteria": {
+      "has_hammock": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_orange": {
+    "criteria": {
+      "has_orange_wool": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2021-10-05 12:07:43 -0300"
+    },
+    "done": true
+  },
+  "forgottenrecipes:recipes/bundle": {
+    "criteria": {
+      "has_string": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "cold_eye": "2021-10-05 11:45:40 -0300"
+    },
+    "done": true
+  },
+  "outvoted:recipes/building_blocks/palm_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_magenta": {
+    "criteria": {
+      "has_magenta_wool": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-10-05 11:40:37 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2021-10-05 11:39:14 -0300"
+    },
+    "done": true
+  },
+  "charm:core/tweaks": {
+    "criteria": {
+      "player_joined": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2021-10-05 13:06:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2021-10-05 11:32:33 -0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_green": {
+    "criteria": {
+      "has_green_wool": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2021-10-05 12:01:41 -0300"
+    },
+    "done": true
+  },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "brewingstand": "2021-10-05 11:48:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-10-05 12:54:30 -0300"
+    },
+    "done": true
+  },
+  "cozy_camping:root": {
+    "criteria": {
+      "start": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2021-10-05 12:59:43 -0300"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2021-10-05 11:22:31 -0300"
+    },
+    "done": true
+  },
+  "cozy_camping:recipes/tents/blue_tent": {
+    "criteria": {
+      "has_stick": "2021-10-05 11:32:33 -0300"
+    },
+    "done": true
+  },
+  "DataVersion": 2730
+}

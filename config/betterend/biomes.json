@@ -167,5 +167,13 @@
       "edge_size [default: 32]": 32,
       "enabled [default: true]": true
     }
+  },
+  "promenade": {
+    "dark_amaranth_forest": {
+      "enabled [default: true]": true
+    },
+    "tall_dark_amaranth_forest": {
+      "enabled [default: true]": true
+    }
   }
 }

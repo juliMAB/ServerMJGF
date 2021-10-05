@@ -1,76 +1,76 @@
-[21:42:54] [INFO] Hello, World! (You will see this line every time server resources reload)
-[21:42:54] [INFO] Loaded script server_scripts:script.js in 0.004 s
-[21:42:54] [INFO] Loaded 1/1 KubeJS server scripts in 0.011 s
-[21:42:54] [INFO] Scripts loaded
-[21:42:54] [INFO] Scanning recipes...
-[21:42:54] [INFO] [game_events] Found 2 tags, added 0 objects, removed 0 objects
-[21:42:54] [INFO] [entity_types] Found 36 tags, added 0 objects, removed 0 objects
-[21:42:54] [INFO] [fluids] Found 4 tags, added 0 objects, removed 0 objects
-[21:42:54] [INFO] [functions] Found 2 tags, added 0 objects, removed 0 objects
-[21:42:54] [INFO] [blocks] Found 301 tags, added 0 objects, removed 0 objects
-[21:42:55] [INFO] [items] Found 640 tags, added 0 objects, removed 0 objects
-[21:42:56] [WARN] Failed to parse recipe 'enhanced_mushrooms:cutting/brown_mushroom_sign[farmersdelight:cutting]'! Falling back to vanilla: Unknown recipe type!
-[21:42:56] [WARN] Failed to parse recipe enhanced_mushrooms:cutting/brown_mushroom_sign[farmersdelight:cutting]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
-[21:42:56] [WARN] Failed to parse recipe 'gobber2:gobber2_helmet_dragon_no_flight[minecraft:smithing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'gobber2:gobber2_helmet_dragon_no_flight'
-[21:42:56] [WARN] Failed to parse recipe gobber2:gobber2_helmet_dragon_no_flight[minecraft:smithing]: com.google.gson.JsonSyntaxException: Unknown item 'gobber2:gobber2_helmet_dragon_no_flight'
-[21:42:56] [WARN] Failed to parse recipe 'gobber2:gobber2_boots_dragon_no_flight[minecraft:smithing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'gobber2:gobber2_boots_dragon_no_flight'
-[21:42:56] [WARN] Failed to parse recipe gobber2:gobber2_boots_dragon_no_flight[minecraft:smithing]: com.google.gson.JsonSyntaxException: Unknown item 'gobber2:gobber2_boots_dragon_no_flight'
-[21:42:56] [WARN] Failed to parse recipe 'enhanced_mushrooms:cooking/beef_stew[farmersdelight:cooking]'! Falling back to vanilla: Unknown recipe type!
-[21:42:56] [WARN] Failed to parse recipe enhanced_mushrooms:cooking/beef_stew[farmersdelight:cooking]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cooking'
-[21:42:56] [WARN] Failed to parse recipe 'endrem:compat/create/crushing/end_crystal_horse_armor[create:crushing]'! Falling back to vanilla: Unknown recipe type!
-[21:42:56] [WARN] Failed to parse recipe endrem:compat/create/crushing/end_crystal_horse_armor[create:crushing]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[21:42:56] [WARN] Failed to parse recipe 'techreborn:grinder/nether_ruby_ore[techreborn:grinder]'! Falling back to vanilla: Unknown recipe type!
-[21:42:56] [WARN] Failed to parse recipe 'crossreverie:no_pumpkin_pie2[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid output count: 0
-[21:42:56] [WARN] Failed to parse recipe crossreverie:no_pumpkin_pie2[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Invalid output count: 0
-[21:42:56] [WARN] Failed to parse recipe 'assembly:crafting/polished_dripstone[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'assembly:polished_amethyst'
-[21:42:56] [WARN] Failed to parse recipe assembly:crafting/polished_dripstone[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'assembly:polished_amethyst'
-[21:42:56] [WARN] Failed to parse recipe 'enhanced_mushrooms:cutting/brown_mushroom_hyphae[farmersdelight:cutting]'! Falling back to vanilla: Unknown recipe type!
-[21:42:56] [WARN] Failed to parse recipe enhanced_mushrooms:cutting/brown_mushroom_hyphae[farmersdelight:cutting]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
-[21:42:56] [WARN] Failed to parse recipe 'gobber2:gobber2_leggings_dragon_no_flight[minecraft:smithing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'gobber2:gobber2_leggings_dragon_no_flight'
-[21:42:56] [WARN] Failed to parse recipe gobber2:gobber2_leggings_dragon_no_flight[minecraft:smithing]: com.google.gson.JsonSyntaxException: Unknown item 'gobber2:gobber2_leggings_dragon_no_flight'
-[21:42:56] [WARN] Failed to parse recipe 'assembly:crafting/polished_dripstone_stairs[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid pattern: each row must be the same width
-[21:42:56] [WARN] Failed to parse recipe assembly:crafting/polished_dripstone_stairs[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Invalid pattern: each row must be the same width
-[21:42:56] [WARN] Failed to parse recipe 'enhanced_mushrooms:cutting/red_mushroom_hyphae[farmersdelight:cutting]'! Falling back to vanilla: Unknown recipe type!
-[21:42:56] [WARN] Failed to parse recipe enhanced_mushrooms:cutting/red_mushroom_hyphae[farmersdelight:cutting]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
-[21:42:56] [WARN] Failed to parse recipe 'enhanced_mushrooms:cutting/red_mushroom_trapdoor[farmersdelight:cutting]'! Falling back to vanilla: Unknown recipe type!
-[21:42:56] [WARN] Failed to parse recipe enhanced_mushrooms:cutting/red_mushroom_trapdoor[farmersdelight:cutting]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
-[21:42:56] [WARN] Failed to parse recipe 'enhanced_mushrooms:cutting/brown_mushroom_stem[farmersdelight:cutting]'! Falling back to vanilla: Unknown recipe type!
-[21:42:56] [WARN] Failed to parse recipe enhanced_mushrooms:cutting/brown_mushroom_stem[farmersdelight:cutting]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
-[21:42:56] [WARN] Failed to parse recipe 'assembly:stonecutting/polished_dripstone_slab[minecraft:stonecutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:polished_dripstone'
-[21:42:56] [WARN] Failed to parse recipe assembly:stonecutting/polished_dripstone_slab[minecraft:stonecutting]: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:polished_dripstone'
-[21:42:56] [WARN] Failed to parse recipe 'crossreverie:bag_of_milky_flour[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid output count: 0
-[21:42:56] [WARN] Failed to parse recipe crossreverie:bag_of_milky_flour[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Invalid output count: 0
-[21:42:56] [WARN] Failed to parse recipe 'enhanced_mushrooms:cutting/brown_mushroom_door[farmersdelight:cutting]'! Falling back to vanilla: Unknown recipe type!
-[21:42:56] [WARN] Failed to parse recipe enhanced_mushrooms:cutting/brown_mushroom_door[farmersdelight:cutting]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
-[21:42:56] [WARN] Failed to parse recipe 'assembly:crafting/dripstone_stairs[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid pattern: each row must be the same width
-[21:42:56] [WARN] Failed to parse recipe assembly:crafting/dripstone_stairs[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Invalid pattern: each row must be the same width
-[21:42:56] [WARN] Failed to parse recipe 'assembly:crafting/amethyst_brick_stairs[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid pattern: each row must be the same width
-[21:42:56] [WARN] Failed to parse recipe assembly:crafting/amethyst_brick_stairs[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Invalid pattern: each row must be the same width
-[21:42:56] [WARN] Failed to parse recipe 'endrem:end_crystal_fragment[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'endrem:end_crystal_block'
-[21:42:56] [WARN] Failed to parse recipe endrem:end_crystal_fragment[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'endrem:end_crystal_block'
-[21:42:56] [WARN] Failed to parse recipe 'assembly:stonecutting/amethyst_brick_stairs[minecraft:stonecutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:amethyst_bricks'
-[21:42:56] [WARN] Failed to parse recipe assembly:stonecutting/amethyst_brick_stairs[minecraft:stonecutting]: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:amethyst_bricks'
-[21:42:56] [WARN] Failed to parse recipe 'endrem:compat/create/crushing/end_crystal_ore[create:crushing]'! Falling back to vanilla: Unknown recipe type!
-[21:42:56] [WARN] Failed to parse recipe endrem:compat/create/crushing/end_crystal_ore[create:crushing]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[21:42:56] [WARN] Failed to parse recipe 'enhanced_mushrooms:cutting/red_mushroom_stem[farmersdelight:cutting]'! Falling back to vanilla: Unknown recipe type!
-[21:42:56] [WARN] Failed to parse recipe enhanced_mushrooms:cutting/red_mushroom_stem[farmersdelight:cutting]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
-[21:42:56] [WARN] Failed to parse recipe 'techreborn:grinder/nether_lapis_ore[techreborn:grinder]'! Falling back to vanilla: Unknown recipe type!
-[21:42:56] [WARN] Failed to parse recipe 'endrem:end_crystal_block[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'endrem:end_crystal_block'
-[21:42:56] [WARN] Failed to parse recipe endrem:end_crystal_block[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'endrem:end_crystal_block'
-[21:42:56] [WARN] Failed to parse recipe 'enhanced_mushrooms:cutting/red_mushroom_door[farmersdelight:cutting]'! Falling back to vanilla: Unknown recipe type!
-[21:42:56] [WARN] Failed to parse recipe enhanced_mushrooms:cutting/red_mushroom_door[farmersdelight:cutting]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
-[21:42:56] [WARN] Failed to parse recipe 'crossreverie:no_pumpkin_pie[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid output count: 0
-[21:42:56] [WARN] Failed to parse recipe crossreverie:no_pumpkin_pie[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Invalid output count: 0
-[21:42:56] [WARN] Failed to parse recipe 'assembly:stonecutting/polished_dripstone_stairs[minecraft:stonecutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:polished_dripstone'
-[21:42:56] [WARN] Failed to parse recipe assembly:stonecutting/polished_dripstone_stairs[minecraft:stonecutting]: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:polished_dripstone'
-[21:42:56] [WARN] Failed to parse recipe 'enhanced_mushrooms:cutting/brown_mushroom_trapdoor[farmersdelight:cutting]'! Falling back to vanilla: Unknown recipe type!
-[21:42:56] [WARN] Failed to parse recipe enhanced_mushrooms:cutting/brown_mushroom_trapdoor[farmersdelight:cutting]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
-[21:42:56] [WARN] Failed to parse recipe 'enhanced_mushrooms:cutting/red_mushroom_sign[farmersdelight:cutting]'! Falling back to vanilla: Unknown recipe type!
-[21:42:56] [WARN] Failed to parse recipe enhanced_mushrooms:cutting/red_mushroom_sign[farmersdelight:cutting]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
-[21:42:56] [WARN] Failed to parse recipe 'gobber2:gobber2_chestplate_dragon_no_flight[minecraft:smithing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'gobber2:gobber2_chestplate_dragon_no_flight'
-[21:42:56] [WARN] Failed to parse recipe gobber2:gobber2_chestplate_dragon_no_flight[minecraft:smithing]: com.google.gson.JsonSyntaxException: Unknown item 'gobber2:gobber2_chestplate_dragon_no_flight'
-[21:42:56] [WARN] Failed to parse recipe 'assembly:stonecutting/amethyst_brick_slab[minecraft:stonecutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:amethyst_bricks'
-[21:42:56] [WARN] Failed to parse recipe assembly:stonecutting/amethyst_brick_slab[minecraft:stonecutting]: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:amethyst_bricks'
-[21:42:56] [WARN] Failed to parse recipe 'techreborn:grinder/cincinnasite_ore[techreborn:grinder]'! Falling back to vanilla: Unknown recipe type!
-[21:42:56] [INFO] server_scripts:script.js:23: + minecraft:crafting_shaped: ['minecraft:sand', 'minecraft:clay', 'minecraft:water_bucket'] -> [Item.of('croptopia:salt_ore', 3)]
-[21:43:02] [INFO] [biomes] Found 0 tags, added 0 objects, removed 0 objects
+[21:46:37] [INFO] Hello, World! (You will see this line every time server resources reload)
+[21:46:37] [INFO] Loaded script server_scripts:script.js in 0.004 s
+[21:46:37] [INFO] Loaded 1/1 KubeJS server scripts in 0.011 s
+[21:46:37] [INFO] Scripts loaded
+[21:46:37] [INFO] Scanning recipes...
+[21:46:37] [INFO] [game_events] Found 2 tags, added 0 objects, removed 0 objects
+[21:46:37] [INFO] [fluids] Found 4 tags, added 0 objects, removed 0 objects
+[21:46:37] [INFO] [entity_types] Found 36 tags, added 0 objects, removed 0 objects
+[21:46:37] [INFO] [functions] Found 2 tags, added 0 objects, removed 0 objects
+[21:46:38] [INFO] [blocks] Found 301 tags, added 0 objects, removed 0 objects
+[21:46:38] [INFO] [items] Found 640 tags, added 0 objects, removed 0 objects
+[21:46:39] [WARN] Failed to parse recipe 'enhanced_mushrooms:cutting/brown_mushroom_sign[farmersdelight:cutting]'! Falling back to vanilla: Unknown recipe type!
+[21:46:39] [WARN] Failed to parse recipe enhanced_mushrooms:cutting/brown_mushroom_sign[farmersdelight:cutting]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
+[21:46:39] [WARN] Failed to parse recipe 'gobber2:gobber2_helmet_dragon_no_flight[minecraft:smithing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'gobber2:gobber2_helmet_dragon_no_flight'
+[21:46:39] [WARN] Failed to parse recipe gobber2:gobber2_helmet_dragon_no_flight[minecraft:smithing]: com.google.gson.JsonSyntaxException: Unknown item 'gobber2:gobber2_helmet_dragon_no_flight'
+[21:46:39] [WARN] Failed to parse recipe 'gobber2:gobber2_boots_dragon_no_flight[minecraft:smithing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'gobber2:gobber2_boots_dragon_no_flight'
+[21:46:39] [WARN] Failed to parse recipe gobber2:gobber2_boots_dragon_no_flight[minecraft:smithing]: com.google.gson.JsonSyntaxException: Unknown item 'gobber2:gobber2_boots_dragon_no_flight'
+[21:46:39] [WARN] Failed to parse recipe 'enhanced_mushrooms:cooking/beef_stew[farmersdelight:cooking]'! Falling back to vanilla: Unknown recipe type!
+[21:46:39] [WARN] Failed to parse recipe enhanced_mushrooms:cooking/beef_stew[farmersdelight:cooking]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cooking'
+[21:46:39] [WARN] Failed to parse recipe 'endrem:compat/create/crushing/end_crystal_horse_armor[create:crushing]'! Falling back to vanilla: Unknown recipe type!
+[21:46:39] [WARN] Failed to parse recipe endrem:compat/create/crushing/end_crystal_horse_armor[create:crushing]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[21:46:39] [WARN] Failed to parse recipe 'techreborn:grinder/nether_ruby_ore[techreborn:grinder]'! Falling back to vanilla: Unknown recipe type!
+[21:46:39] [WARN] Failed to parse recipe 'crossreverie:no_pumpkin_pie2[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid output count: 0
+[21:46:39] [WARN] Failed to parse recipe crossreverie:no_pumpkin_pie2[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Invalid output count: 0
+[21:46:39] [WARN] Failed to parse recipe 'assembly:crafting/polished_dripstone[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'assembly:polished_amethyst'
+[21:46:39] [WARN] Failed to parse recipe assembly:crafting/polished_dripstone[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'assembly:polished_amethyst'
+[21:46:39] [WARN] Failed to parse recipe 'enhanced_mushrooms:cutting/brown_mushroom_hyphae[farmersdelight:cutting]'! Falling back to vanilla: Unknown recipe type!
+[21:46:39] [WARN] Failed to parse recipe enhanced_mushrooms:cutting/brown_mushroom_hyphae[farmersdelight:cutting]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
+[21:46:39] [WARN] Failed to parse recipe 'gobber2:gobber2_leggings_dragon_no_flight[minecraft:smithing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'gobber2:gobber2_leggings_dragon_no_flight'
+[21:46:39] [WARN] Failed to parse recipe gobber2:gobber2_leggings_dragon_no_flight[minecraft:smithing]: com.google.gson.JsonSyntaxException: Unknown item 'gobber2:gobber2_leggings_dragon_no_flight'
+[21:46:39] [WARN] Failed to parse recipe 'assembly:crafting/polished_dripstone_stairs[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid pattern: each row must be the same width
+[21:46:39] [WARN] Failed to parse recipe assembly:crafting/polished_dripstone_stairs[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Invalid pattern: each row must be the same width
+[21:46:39] [WARN] Failed to parse recipe 'enhanced_mushrooms:cutting/red_mushroom_hyphae[farmersdelight:cutting]'! Falling back to vanilla: Unknown recipe type!
+[21:46:39] [WARN] Failed to parse recipe enhanced_mushrooms:cutting/red_mushroom_hyphae[farmersdelight:cutting]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
+[21:46:39] [WARN] Failed to parse recipe 'enhanced_mushrooms:cutting/red_mushroom_trapdoor[farmersdelight:cutting]'! Falling back to vanilla: Unknown recipe type!
+[21:46:39] [WARN] Failed to parse recipe enhanced_mushrooms:cutting/red_mushroom_trapdoor[farmersdelight:cutting]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
+[21:46:39] [WARN] Failed to parse recipe 'enhanced_mushrooms:cutting/brown_mushroom_stem[farmersdelight:cutting]'! Falling back to vanilla: Unknown recipe type!
+[21:46:39] [WARN] Failed to parse recipe enhanced_mushrooms:cutting/brown_mushroom_stem[farmersdelight:cutting]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
+[21:46:39] [WARN] Failed to parse recipe 'assembly:stonecutting/polished_dripstone_slab[minecraft:stonecutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:polished_dripstone'
+[21:46:39] [WARN] Failed to parse recipe assembly:stonecutting/polished_dripstone_slab[minecraft:stonecutting]: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:polished_dripstone'
+[21:46:39] [WARN] Failed to parse recipe 'crossreverie:bag_of_milky_flour[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid output count: 0
+[21:46:39] [WARN] Failed to parse recipe crossreverie:bag_of_milky_flour[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Invalid output count: 0
+[21:46:39] [WARN] Failed to parse recipe 'enhanced_mushrooms:cutting/brown_mushroom_door[farmersdelight:cutting]'! Falling back to vanilla: Unknown recipe type!
+[21:46:39] [WARN] Failed to parse recipe enhanced_mushrooms:cutting/brown_mushroom_door[farmersdelight:cutting]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
+[21:46:39] [WARN] Failed to parse recipe 'assembly:crafting/dripstone_stairs[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid pattern: each row must be the same width
+[21:46:39] [WARN] Failed to parse recipe assembly:crafting/dripstone_stairs[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Invalid pattern: each row must be the same width
+[21:46:39] [WARN] Failed to parse recipe 'assembly:crafting/amethyst_brick_stairs[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid pattern: each row must be the same width
+[21:46:39] [WARN] Failed to parse recipe assembly:crafting/amethyst_brick_stairs[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Invalid pattern: each row must be the same width
+[21:46:39] [WARN] Failed to parse recipe 'endrem:end_crystal_fragment[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'endrem:end_crystal_block'
+[21:46:39] [WARN] Failed to parse recipe endrem:end_crystal_fragment[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'endrem:end_crystal_block'
+[21:46:39] [WARN] Failed to parse recipe 'assembly:stonecutting/amethyst_brick_stairs[minecraft:stonecutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:amethyst_bricks'
+[21:46:39] [WARN] Failed to parse recipe assembly:stonecutting/amethyst_brick_stairs[minecraft:stonecutting]: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:amethyst_bricks'
+[21:46:39] [WARN] Failed to parse recipe 'endrem:compat/create/crushing/end_crystal_ore[create:crushing]'! Falling back to vanilla: Unknown recipe type!
+[21:46:39] [WARN] Failed to parse recipe endrem:compat/create/crushing/end_crystal_ore[create:crushing]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[21:46:39] [WARN] Failed to parse recipe 'enhanced_mushrooms:cutting/red_mushroom_stem[farmersdelight:cutting]'! Falling back to vanilla: Unknown recipe type!
+[21:46:39] [WARN] Failed to parse recipe enhanced_mushrooms:cutting/red_mushroom_stem[farmersdelight:cutting]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
+[21:46:39] [WARN] Failed to parse recipe 'techreborn:grinder/nether_lapis_ore[techreborn:grinder]'! Falling back to vanilla: Unknown recipe type!
+[21:46:39] [WARN] Failed to parse recipe 'endrem:end_crystal_block[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'endrem:end_crystal_block'
+[21:46:39] [WARN] Failed to parse recipe endrem:end_crystal_block[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'endrem:end_crystal_block'
+[21:46:39] [WARN] Failed to parse recipe 'enhanced_mushrooms:cutting/red_mushroom_door[farmersdelight:cutting]'! Falling back to vanilla: Unknown recipe type!
+[21:46:39] [WARN] Failed to parse recipe enhanced_mushrooms:cutting/red_mushroom_door[farmersdelight:cutting]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
+[21:46:39] [WARN] Failed to parse recipe 'crossreverie:no_pumpkin_pie[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid output count: 0
+[21:46:39] [WARN] Failed to parse recipe crossreverie:no_pumpkin_pie[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Invalid output count: 0
+[21:46:39] [WARN] Failed to parse recipe 'assembly:stonecutting/polished_dripstone_stairs[minecraft:stonecutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:polished_dripstone'
+[21:46:39] [WARN] Failed to parse recipe assembly:stonecutting/polished_dripstone_stairs[minecraft:stonecutting]: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:polished_dripstone'
+[21:46:39] [WARN] Failed to parse recipe 'enhanced_mushrooms:cutting/brown_mushroom_trapdoor[farmersdelight:cutting]'! Falling back to vanilla: Unknown recipe type!
+[21:46:39] [WARN] Failed to parse recipe enhanced_mushrooms:cutting/brown_mushroom_trapdoor[farmersdelight:cutting]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
+[21:46:39] [WARN] Failed to parse recipe 'enhanced_mushrooms:cutting/red_mushroom_sign[farmersdelight:cutting]'! Falling back to vanilla: Unknown recipe type!
+[21:46:39] [WARN] Failed to parse recipe enhanced_mushrooms:cutting/red_mushroom_sign[farmersdelight:cutting]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
+[21:46:39] [WARN] Failed to parse recipe 'gobber2:gobber2_chestplate_dragon_no_flight[minecraft:smithing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'gobber2:gobber2_chestplate_dragon_no_flight'
+[21:46:39] [WARN] Failed to parse recipe gobber2:gobber2_chestplate_dragon_no_flight[minecraft:smithing]: com.google.gson.JsonSyntaxException: Unknown item 'gobber2:gobber2_chestplate_dragon_no_flight'
+[21:46:39] [WARN] Failed to parse recipe 'assembly:stonecutting/amethyst_brick_slab[minecraft:stonecutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:amethyst_bricks'
+[21:46:39] [WARN] Failed to parse recipe assembly:stonecutting/amethyst_brick_slab[minecraft:stonecutting]: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:amethyst_bricks'
+[21:46:39] [WARN] Failed to parse recipe 'techreborn:grinder/cincinnasite_ore[techreborn:grinder]'! Falling back to vanilla: Unknown recipe type!
+[21:46:39] [INFO] server_scripts:script.js:23: + minecraft:crafting_shaped: ['minecraft:sand', 'minecraft:clay', 'minecraft:water_bucket'] -> [Item.of('croptopia:salt_ore', 3)]
+[21:46:46] [INFO] [biomes] Found 0 tags, added 0 objects, removed 0 objects
